@@ -1,5 +1,4 @@
 import pygame
-from main import load_image, all_sprites, inventar_group
 
 # ДО ОСНОВНОГО ЦИКЛА while running
 # inventory = Inventory()
